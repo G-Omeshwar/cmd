@@ -267,10 +267,3 @@ For more help, see `docs/DEPLOYMENT.md` troubleshooting section.
 - No advanced reporting/analytics
 - No email notifications
 
-## 📧 Support
-
-For issues or questions, please create a GitHub issue.
-
----
-
-**Assignment Deadline**: 48 hours
